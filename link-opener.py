@@ -1,7 +1,7 @@
 import webbrowser
 
-text = open(r"C:\Users\USER\Documents\Program\Dump\links\Qcell", "r")
+text = open(r"path\to\your'file", "r")
 text.read()
 
 for link in text:
-	web  = webbrowser.open("https://pr0gramm.com/user/Danso")
+	web  = webbrowser.open("link")
